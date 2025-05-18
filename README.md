@@ -22,4 +22,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/steffindhas177?theme=dark&font=Marcellus&ext=heatmap)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/steffindhas177?theme=dark&font=Marcellus&ext=heatmap)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=steffindhas&bg_color=121112&color=15c18d&line=04fb5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
