@@ -8,14 +8,13 @@
 📍 Based in **Kanyakumari, Tamil Nadu**
 
 
-
 ### 💻 Tech Stack
 
 **Languages & Technologies I Work With:**
 
 <img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/>&nbsp; <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>&nbsp; <img height="40" src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/> &nbsp;<img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>&nbsp;<img height="40" src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>&nbsp;<img height="40" src="https://img.icons8.com/fluent/48/arduino.png" title="Arduino"/>&nbsp;<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>&nbsp;<img height="40" src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
 
-
+<br>
 
 ### 📊 My Coding Journey
 
