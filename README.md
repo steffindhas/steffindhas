@@ -23,11 +23,9 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Building an **Student Management System** using **Spring Boot + Thymeleaf**
+- 🚀 Building an **Student Management System** using **Java Spring Boot + Thymeleaf**
 - 🤖 Developed **embedded system projects** like **Fire Detection System using OpenCV & CNN**
-- 🎨 Created a **Netflix Clone Frontend** using **HTML & CSS**
 - 📈 Certified in **Power BI**, **Tableau**, and **Digital Marketing**
-
 
 
 ### 📫 Connect With Me
