@@ -13,7 +13,7 @@
 
 **Languages & Technologies I Work With:**
 
-<img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/>&nbsp <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>&nbsp <img height="40" src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/> <br><img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/><br> <img height="40" src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/><br><img height="40" src="https://img.icons8.com/fluent/48/arduino.png" title="Arduino"/><br><img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/><br><img height="40" src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+<img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/>&nbsp; <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>&nbsp; <img height="40" src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/> <br><img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/><br> <img height="40" src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/><br><img height="40" src="https://img.icons8.com/fluent/48/arduino.png" title="Arduino"/><br><img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/><br><img height="40" src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
 
 
 
