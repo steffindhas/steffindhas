@@ -13,24 +13,13 @@
 
 **Languages & Technologies I Work With:**
 
-<img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/> 
-<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/> 
-<img height="40" src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/> 
-<img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/> 
-<img height="40" src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
-<img height="40" src="https://img.icons8.com/fluent/48/arduino.png" title="Arduino"/>
-<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-<img height="40" src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+<img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/> <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/> <img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/><img height="40" src="https://img.icons8.com/fluent/48/arduino.png" title="Arduino"/><img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/><img height="40" src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
 
 ---
 
 ### 🛠️ Tools & IDEs
 
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/> 
-<img height="40" src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/> 
-<img height="40" src="https://img.icons8.com/color/48/git.png" title="Git"/> 
-<img height="40" src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
-<img height="40" src="https://img.icons8.com/officel/480/java-eclipse.png" title="Eclipse"/>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/> <img height="40" src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/> <img height="40" src="https://img.icons8.com/color/48/git.png" title="Git"/> <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/><img height="40" src="https://img.icons8.com/officel/480/java-eclipse.png" title="Eclipse"/>
 
 ---
 
@@ -50,10 +39,10 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Building an **Employee Management System** using **Spring Boot + Thymeleaf**
+- 🚀 Building an **Student Management System** using **Spring Boot + Thymeleaf**
 - 🤖 Developed **embedded system projects** like **Fire Detection System using OpenCV & CNN**
 - 🎨 Created a **Netflix Clone Frontend** using **HTML & CSS**
-- 📈 Certified in **Power BI**, **Tableau**, and **Digital Marketing** (Naan Mudhalvan)
+- 📈 Certified in **Power BI**, **Tableau**, and **Digital Marketing** 
 
 ---
 
